@@ -17,7 +17,7 @@ DEFAULT_SK_CONTENT = """========================================================
 =================================================================
 
 [INFORMASI PENGEMBANG]
-Penulis / Perancang : Zaidaan Ali Wirayudha & Leon Agustian Rachmat
+Penulis / Perancang : Zaidaan Ali Wirayudha & Leon Pratama Agustian Rachmad
 Asal Sekolah        : SMA NEGERI 2 KOTA MADIUN
 Asisten Pengembangan: Gemini 4 Hydrogen
 

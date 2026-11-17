@@ -5,7 +5,7 @@ Dokumentasi ini mencatat seluruh riwayat interaksi pemanfaatan kecerdasan artifi
 > 📖 **Dokumentasi Utama:** Kembali ke panduan instalasi, konfigurasi GitHub, dan daftar perintah lengkap pada **[README.md](./README.md)**.
 
 * **Nama Produk Digital:** Awan CLI (GITUS) — GitHub Release Cloud Storage
-* **Penulis / Perancang:** Zaidaan Ali Wirayudha & Leon Agustian Rachmat
+* **Penulis / Perancang:** Zaidaan Ali Wirayudha & Leon Pratama Agustian Rachmad
 * **Asal Sekolah:** SMA NEGERI 2 KOTA MADIUN
 * **Kegiatan:** Pelatihan TIK Bagi Murid SMA/SMK (LATIKA) Tahun 2026 — UPT. TIKP Dinas Pendidikan Provinsi Jawa Timur
 * **Asisten Pengembangan AI:** Gemini 4 Hydrogen

@@ -298,6 +298,6 @@ Dalam pengembangan **Awan CLI (GITUS)**, tim pengembang memanfaatkan Kecerdasan 
 Karya ini dikembangkan dalam rangka kegiatan **Pelatihan TIK Bagi Murid SMA/SMK (LATIKA) Tahun 2026** — UPT. Teknologi Informasi dan Komunikasi Pendidikan (TIKP), Dinas Pendidikan Provinsi Jawa Timur.
 
 * **Pengembang 1**: Zaidaan Ali Wirayudha
-* **Pengembang 2**: Leon Agustian Rachmat
+* **Pengembang 2**: Leon Pratama Agustian Rachmad
 * **Kelas / Jurusan**: XI / INFORMATIKA & IPA
 * **Asal Sekolah**: **SMA NEGERI 2 KOTA MADIUN**

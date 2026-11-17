@@ -5,7 +5,7 @@
 
 [INFORMASI PENGEMBANG & PROYEK]
 Nama Aplikasi       : Awan CLI Storage (GITUS)
-Penulis / Perancang : Zaidaan Ali Wirayudha & Leon Agustian Rachmat
+Penulis / Perancang : Zaidaan Ali Wirayudha & Leon Pratama Agustian Rachmad
 Asal Sekolah        : SMA NEGERI 2 KOTA MADIUN
 Asisten Pengembangan: Gemini 4 Hydrogen
 Tujuan Proyek       : Karya Proyek Pelatihan TIK Siswa SMA/SMK Tahun 2026
@@ -62,7 +62,7 @@ Tujuan Proyek       : Karya Proyek Pelatihan TIK Siswa SMA/SMK Tahun 2026
 -----------------------------------------------------------------------------
 5.1. Aplikasi ini disediakan "sebagaimana adanya" (AS IS) untuk tujuan
      edukasi dan produktivitas pribadi.
-5.2. Pengembang (Zaidaan Ali Wirayudha & Leon Agustian Rachmat) dibebaskan
+5.2. Pengembang (Zaidaan Ali Wirayudha & Leon Pratama Agustian Rachmad) dibebaskan
      dari segala tuntutan hukum atau kerugian akibat hilangnya data,
      gangguan koneksi internet, perubahan kebijakan API GitHub, maupun
      pembekuan akun (suspend) yang disebabkan oleh kelalaian pengguna dalam
