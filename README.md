@@ -299,5 +299,5 @@ Karya ini dikembangkan dalam rangka kegiatan **Pelatihan TIK Bagi Murid SMA/SMK 
 
 * **Pengembang 1**: Zaidaan Ali Wirayudha
 * **Pengembang 2**: Leon Agustian Rachmat
-* **Kelas / Jurusan**: XI / *(Silakan sesuaikan kelas & jurusan)*
+* **Kelas / Jurusan**: XI / INFORMATIKA & IPA
 * **Asal Sekolah**: **SMA NEGERI 2 KOTA MADIUN**

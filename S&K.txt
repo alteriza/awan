@@ -1,23 +1,74 @@
-=================================================================
-         SYARAT & KETENTUAN (S&K) - AWAN CLI STORAGE
-=================================================================
+=============================================================================
+            SYARAT & KETENTUAN PENGGUNAAN (S&K) - AWAN CLI STORAGE
+             (GITUS - GitHub Release Storage Client Interface)
+=============================================================================
 
-[INFORMASI PENGEMBANG]
+[INFORMASI PENGEMBANG & PROYEK]
+Nama Aplikasi       : Awan CLI Storage (GITUS)
 Penulis / Perancang : Zaidaan Ali Wirayudha & Leon Agustian Rachmat
 Asal Sekolah        : SMA NEGERI 2 KOTA MADIUN
 Asisten Pengembangan: Gemini 4 Hydrogen
+Tujuan Proyek       : Karya Proyek Pelatihan TIK Siswa SMA/SMK Tahun 2026
+                      (UPT. TIKP Dinas Pendidikan Provinsi Jawa Timur)
 
-[KETENTUAN PENGGUNAAN]
-1. Batas maksimal ukuran per file adalah 2 GB sesuai kebijakan
-   resmi GitHub Releases.
-2. Gunakan repository berstatus PRIVATE untuk menyimpan data
-   pribadi agar tidak dapat diakses oleh publik.
-3. Dilarang mengunggah malware, file ilegal, konten berbahaya,
-   atau materi yang melanggar hak cipta.
-4. Hindari penggunaan sebagai CDN publik bertrafik tinggi agar
-   akun GitHub tidak terkena pembatasan (suspend).
-5. Kredensial token dan hasil unduhan disimpan secara lokal di
-   direktori aplikasi pada perangkat kamu sendiri.
+-----------------------------------------------------------------------------
+1. RUANG LINGKUP & SIFAT LAYANAN
+-----------------------------------------------------------------------------
+1.1. Awan CLI adalah antarmuka baris perintah (Command Line Interface) yang
+     berfungsi sebagai jembatan (client) antara perangkat lokal pengguna
+     dengan layanan GitHub REST API & GitHub Releases.
+1.2. Aplikasi ini tidak menyediakan server penyimpanan mandiri; seluruh data
+     disimpan langsung di dalam repository milik pengguna di platform GitHub.
 
-Dengan melanjutkan, kamu menyatakan telah membaca dan menyetujui
-seluruh ketentuan di atas.
+-----------------------------------------------------------------------------
+2. BATASAN TEKNIS & KEBIJAKAN GITHUB
+-----------------------------------------------------------------------------
+2.1. Ukuran File Tunggal: Batas maksimal ukuran untuk setiap file (asset)
+     yang diunggah adalah 2 GB (2.147.483.648 bytes) sesuai ketentuan teknis
+     resmi GitHub Releases. File melebihi batas ini akan otomatis ditolak.
+2.2. Batas Permintaan API (Rate Limit): Pengguna wajib mematuhi batas kuota
+     permintaan API GitHub (umumnya 5.000 permintaan per jam untuk akun
+     terautentikasi).
+2.3. Larangan Penyalahgunaan Bandwidth: Dilarang keras memanfaatkan tautan
+     unduhan sebagai Content Delivery Network (CDN) publik dengan trafik
+     tinggi karena dapat memicu pemblokiran akun atau repository oleh GitHub.
+
+-----------------------------------------------------------------------------
+3. PRIVASI & KEAMANAN KREDENSIAL
+-----------------------------------------------------------------------------
+3.1. Status Repository: Pengguna sangat diwajibkan menggunakan repository
+     berstatus PRIVATE untuk menyimpan dokumen pribadi atau sensitif agar
+     aset rilis tidak dapat diakses maupun diunduh oleh pihak luar.
+3.2. Penyimpanan Lokal: Personal Access Token (PAT) GitHub dan konfigurasi
+     akun disimpan secara lokal di file '.gh_cloud_config.json' pada
+     direktori aplikasi di perangkat pengguna sendiri.
+3.3. Tanggung Jawab Token: Pengembang tidak pernah mengirimkan, mencatat,
+     atau mengumpulkan token pengguna ke pihak ketiga. Pengguna bertanggung
+     jawab penuh menjaga kerahasiaan file konfigurasi lokal tersebut.
+3.4. Hak Akses Token: Disarankan hanya memberikan izin (scope) 'repo' yang
+     dibutuhkan saat membuat Personal Access Token di GitHub.
+
+-----------------------------------------------------------------------------
+4. ETIKA PENGGUNAAN & KONTEN YANG DILARANG
+-----------------------------------------------------------------------------
+4.1. Pengguna dilarang mengunggah perangkat lunak berbahaya (malware, virus,
+     ransomware), skrip eksploitasi, atau file yang merusak sistem.
+4.2. Dilarang mengunggah materi bajakan, konten ilegal, pornografi, atau
+     dokumen yang melanggar Undang-Undang Hak Cipta dan regulasi hukum yang
+     berlaku di Indonesia maupun Terms of Service GitHub.
+
+-----------------------------------------------------------------------------
+5. PENAFIAN (DISCLAIMER) & BATASAN TANGGUNG JAWAB
+-----------------------------------------------------------------------------
+5.1. Aplikasi ini disediakan "sebagaimana adanya" (AS IS) untuk tujuan
+     edukasi dan produktivitas pribadi.
+5.2. Pengembang (Zaidaan Ali Wirayudha & Leon Agustian Rachmat) dibebaskan
+     dari segala tuntutan hukum atau kerugian akibat hilangnya data,
+     gangguan koneksi internet, perubahan kebijakan API GitHub, maupun
+     pembekuan akun (suspend) yang disebabkan oleh kelalaian pengguna dalam
+     mematuhi S&K ini.
+
+=============================================================================
+Dengan melanjutkan penggunaan aplikasi ini, kamu menyatakan telah membaca,
+memahami, dan menyetujui seluruh butir Syarat & Ketentuan di atas.
+=============================================================================
