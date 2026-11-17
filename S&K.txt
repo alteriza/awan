@@ -1,0 +1,23 @@
+=================================================================
+         SYARAT & KETENTUAN (S&K) - AWAN CLI STORAGE
+=================================================================
+
+[INFORMASI PENGEMBANG]
+Penulis / Perancang : Zaidaan Ali Wirayudha & Leon Agustian Rachmat
+Asal Sekolah        : SMA NEGERI 2 KOTA MADIUN
+Asisten Pengembangan: Gemini 4 Hydrogen
+
+[KETENTUAN PENGGUNAAN]
+1. Batas maksimal ukuran per file adalah 2 GB sesuai kebijakan
+   resmi GitHub Releases.
+2. Gunakan repository berstatus PRIVATE untuk menyimpan data
+   pribadi agar tidak dapat diakses oleh publik.
+3. Dilarang mengunggah malware, file ilegal, konten berbahaya,
+   atau materi yang melanggar hak cipta.
+4. Hindari penggunaan sebagai CDN publik bertrafik tinggi agar
+   akun GitHub tidak terkena pembatasan (suspend).
+5. Kredensial token dan hasil unduhan disimpan secara lokal di
+   direktori aplikasi pada perangkat kamu sendiri.
+
+Dengan melanjutkan, kamu menyatakan telah membaca dan menyetujui
+seluruh ketentuan di atas.
